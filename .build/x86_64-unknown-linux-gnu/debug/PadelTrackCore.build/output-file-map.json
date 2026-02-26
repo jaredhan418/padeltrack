@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/master.swiftdeps"
+  },
+  "/home/runner/work/padeltrack/padeltrack/PadelTrack/Sources/PadelTrackCore/AmericanoScheduler.swift": {
+    "dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/AmericanoScheduler.d",
+    "object": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/AmericanoScheduler.swift.o",
+    "swiftmodule": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/AmericanoScheduler~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/AmericanoScheduler.swiftdeps",
+    "diagnostics": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/AmericanoScheduler.dia"
+  },
+  "/home/runner/work/padeltrack/padeltrack/PadelTrack/Sources/PadelTrackCore/Match.swift": {
+    "dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Match.d",
+    "object": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Match.swift.o",
+    "swiftmodule": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Match~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Match.swiftdeps",
+    "diagnostics": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Match.dia"
+  },
+  "/home/runner/work/padeltrack/padeltrack/PadelTrack/Sources/PadelTrackCore/Player.swift": {
+    "dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Player.d",
+    "object": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Player.swift.o",
+    "swiftmodule": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Player~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Player.swiftdeps",
+    "diagnostics": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Player.dia"
+  },
+  "/home/runner/work/padeltrack/padeltrack/PadelTrack/Sources/PadelTrackCore/Shot.swift": {
+    "dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Shot.d",
+    "object": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Shot.swift.o",
+    "swiftmodule": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Shot~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Shot.swiftdeps",
+    "diagnostics": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Shot.dia"
+  },
+  "/home/runner/work/padeltrack/padeltrack/PadelTrack/Sources/PadelTrackCore/ShotTrackingService.swift": {
+    "dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/ShotTrackingService.d",
+    "object": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/ShotTrackingService.swift.o",
+    "swiftmodule": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/ShotTrackingService~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/ShotTrackingService.swiftdeps",
+    "diagnostics": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/ShotTrackingService.dia"
+  },
+  "/home/runner/work/padeltrack/padeltrack/PadelTrack/Sources/PadelTrackCore/Tournament.swift": {
+    "dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Tournament.d",
+    "object": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Tournament.swift.o",
+    "swiftmodule": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Tournament~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Tournament.swiftdeps",
+    "diagnostics": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackCore.build/Tournament.dia"
+  }
+}

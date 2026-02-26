@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/master.swiftdeps"
+  },
+  "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.derived/PadelTrackTests.swift": {
+    "dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/PadelTrackTests.d",
+    "object": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/PadelTrackTests.swift.o",
+    "swiftmodule": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/PadelTrackTests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/PadelTrackTests.swiftdeps",
+    "diagnostics": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/PadelTrackTests.dia"
+  },
+  "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.derived/all-discovered-tests.swift": {
+    "dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/all-discovered-tests.d",
+    "object": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/all-discovered-tests.swift.o",
+    "swiftmodule": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/all-discovered-tests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/all-discovered-tests.swiftdeps",
+    "diagnostics": "/home/runner/work/padeltrack/padeltrack/.build/x86_64-unknown-linux-gnu/debug/PadelTrackPackageDiscoveredTests.build/all-discovered-tests.dia"
+  }
+}
