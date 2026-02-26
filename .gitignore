@@ -1,0 +1,10 @@
+# Swift build artifacts
+.build/
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+*.o
+*.d
+*.swp
+.swiftpm/
+_codeql_detected_source_root
